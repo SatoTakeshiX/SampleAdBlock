@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ContentBlocker.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>SampleAdBlock.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>30D4C8F31BC4020200BFD45E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>30D4C9091BC4021E00BFD45E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
